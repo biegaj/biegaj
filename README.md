@@ -3,6 +3,6 @@ I started coding in Year 7 in VBS and Batch, later started learning Lua and move
 
 I turned 15 last November and live in the UK.
 
-I'm happy to be paid for any coding work, especially if its in C# or Python. I'm also comfortable with coding in basic TypeScript for scripts for projects like NRelay. I am not creating any sort of malware!
+I'm happy to be paid for any coding work, especially if its in C# or Python. I'm also comfortable with coding in basic TypeScript for scripts for projects like NRelay.
 
 Aditionally, **I am not updating titles**, if the methods I find for hiding malware from antiviruses are patched I wont look for another one. All projects are final!
