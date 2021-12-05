@@ -1,6 +1,6 @@
-![alt text](about_me.png)
+![alt text](images/about_me.png)
 a
-![alt text](projects.png)
+![alt text](images/projects.png)
 a
-![alt text](future.png)
+![alt text](images/future.png)
 a
