@@ -1,2 +1,3 @@
 # Hi i'm Jakub B. 👋
-I started coding in Year 7 (age of 11-12) starting with VBS and Batch. I started coding in C# to code plugins for KRelay (MITM proxy for RotMG https://github.com/TheKronks/KRelay). Although it took me a while to understand what's happening, in lockdown of 2020 I decided to get back into coding and coded more plugins. Afterward, I moved onto coding NRelay (clientless RotMG client) plugins and finally I made a few plugins for the proxy released right before the dupe method for RotMG was released (October 2020). Im quite experienced with C#, but I am also aware of Python (I prefer C# a lot more anyway).
+
+![alt text](about_me.png)
