@@ -1,6 +1,6 @@
 ![alt text](images/-about_me.png)
 
-### who am i?
+### who am I?
 I am a 16 year old Polish student growing up in the UK. I grew up in the East of England. I am an over-achiever and try my hardest to excel at things I dont necessarily need to. My favourite school subjects are Maths (unironically) and IT. I spend a lot of my time working with school things but I also enjoy going to the gym and doing sports. I am very competitive in things I love. 
 
 ### programming?
