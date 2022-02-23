@@ -1,7 +1,7 @@
 ![alt text](images/-about_me.png)
 
 ### who am I?
-I am a 16 year old Polish student growing up in the UK. I grew up in the East of England. I am an over-achiever and try my hardest to excel at things I dont necessarily need to. My favourite school subjects are Maths (unironically) and IT. I spend a lot of my time working with school things but I also enjoy going to the gym and doing sports. I am very competitive in things I love. 
+I am a 16 year old Polish student growing up in the UK. I grew up in the East of England. I am an over-achiever and try my hardest to excel at things. My favourite school subjects are Maths (unironically) and IT. I spend a lot of my time working with school things but I also enjoy going to the gym and doing sports. I am very competitive in things I love. 
 
 ### programming?
 I started programming in 2014 with Batch, creating simple scripts to ask questions like, 'What is your name?' or 'What's your favourite colour?'. In 2016 I created easy Lua scripts to make games on ROBLOX and in 2018 I started studying C# properly. It is my main language and my first to properly learn and study. I am now studying front-end web development although I worked solo on databases and back-end for my website, https://www.biegaj.co.uk. 
