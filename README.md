@@ -1,2 +1,2 @@
 # Welcome 👋
-![mhm](https://imgur.com/a/xRxtEwX)
+![mhm](https://files.catbox.moe/cxrei4.jpeg)
